@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "15356000000009080",
+      "name": "SamPreethJohn",
+      "domain": {
+        "id": "50025756983",
+        "name": "sampreethjohn-60039528982.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60039528982",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
